@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Harisdarmawan
 
-I'm a **frontend developer** passionate about creating beautiful, responsive, and user-friendly web experiences.  
+I'm a **backend developer** passionate about building **scalable, efficient, and secure web applications**, and I love working in **Linux environments**.  
 
-## 🎨 About Me
+## 🖥 About Me
 - 👾 Name: **Harisdarmawan**  
 - 📖 University: **Pamulang University**  
 - 💻 Field of Study: **Computer Science / Information Engineering**  
-- 🖌 Current Focus: **Frontend Development, UI/UX Design, TailwindCSS, Figma**
+- ⚙️ Current Focus: **Backend Development, RESTful APIs, Laravel, PHP, Database Design, Linux**
 
 ## 🚀 Skills
-- **Frontend:** HTML, CSS, JavaScript, TailwindCSS,  
-- **UI/UX Design:** Figma, Wireframing, Prototyping, Design Systems  
-- **Tools:** Git, VSCode, Linux
+- **Backend:** PHP, Laravel, Python  
+- **Databases:** MySQL, MongoDB  
+- **APIs:** RESTful, JSON, API Authentication (JWT, Passport)  
+- **Linux / Server:** Ubuntu,SSH, Nginx/Apache  
+- **Tools & Practices:** Git, Composer, PHPUnit, Postman  
 
 ## 🌱 Learning & Interests
-- Creating **pixel-perfect responsive designs**  
-- Optimizing **UI/UX workflows**  
-- Exploring **animations and micro-interactions**  
-- Building **design systems and component libraries**  
+- Designing **clean architecture & scalable systems**    
+- Optimizing **database queries & performance**  
+- Automating workflows with **Linux shell scripts**  
