@@ -85,3 +85,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/snake.svg" alt="Snake animation" />
+
+###
