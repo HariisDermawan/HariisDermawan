@@ -76,7 +76,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+
+<p align="left"></p>
+
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/pacman-contribution-graph-dark.svg">
@@ -85,6 +90,8 @@
 </picture>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/snake.svg" alt="Snake animation" />
 
