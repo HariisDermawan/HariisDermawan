@@ -84,5 +84,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/pacman-contribution-graph.svg">
 </picture>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 82072ba1aa32b592f99dcb165e9cf1b7c890c9cb
 ###
