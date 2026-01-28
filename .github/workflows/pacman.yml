@@ -1,33 +1,58 @@
-name: Generate pacman animation
+name: Generate Pacman Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *"  # setiap 12 jam
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Install Node.js karena pacman action butuh
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # Generate light mode SVG
+      - name: Generate pacman-contribution-graph.svg (light)
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: HarisDermawan
 
+      # Generate dark mode SVG
+      - name: Generate pacman-contribution-graph-dark.svg
+        run: |
+          npm install -g pacman-contribution-graph
+          pacman-contribution-graph --user HarisDermawan --output pacman-contribution-graph-dark.svg --dark
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      # Prepare dist folder
+      - name: Move all SVGs to dist
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
+          mv pacman-contribution-graph-dark.svg dist/
+
+      - name: Debug - check dist contents
+        run: ls -al dist
+
+      # Push to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

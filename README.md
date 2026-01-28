@@ -1,7 +1,5 @@
 <h1 align="left">Hey 👋 Hi, I'm Harisdarmawan</h1>
 
-
-
 <p align="left">🚀 I'm a Backend Developer who loves building scalable, efficient, and secure web applications.<br>🐧 Comfortable working in Linux environments, and I enjoy learning about servers, APIs, and automation.</p>
 
 ---
@@ -76,15 +74,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 <img src="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
