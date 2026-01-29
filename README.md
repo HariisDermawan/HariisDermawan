@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Hi, I'm Harisdarmawan</h1>
+<h1 align="left">Hey, I'm Harisdarmawan</h1>
 
 <p align="left">🚀 I'm a Backend Developer who loves building scalable, efficient, and secure web applications.<br>🐧 Comfortable working in Linux environments, and I enjoy learning about servers, APIs, and automation.</p>
 
