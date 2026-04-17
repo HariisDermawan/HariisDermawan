@@ -21,14 +21,6 @@
     <td>💻 Major</td>
     <td><b>Computer Science / Information Engineering</b></td>
   </tr>
-  <tr>
-    <td>⚙️ Focus</td>
-    <td><b>Backend Development • RESTful API • Laravel • PHP • Database • Linux</b></td>
-  </tr>
-  <tr>
-    <td>✨ Interests</td>
-    <td><b>Clean Architecture • Performance Optimization • Secure Authentication</b></td>
-  </tr>
 </table>
 
 
