@@ -75,21 +75,5 @@
 
 ---
 
-## 📊 Currently Learning
-
-- ⚛️ React.js (Frontend Modern UI)
-- 🚀 Next.js (Production Framework)
-- 🔐 API Security & Authentication
-- ☁️ Deployment (Vercel / VPS / Docker)
-
----
-
-## 📈 Goals
-
-- Build scalable SaaS applications
-- Improve frontend + backend integration
-- Become Full Stack Developer (React + Node + Laravel)
-
----
 
 <img src="https://raw.githubusercontent.com/HariisDermawan/HariisDermawan/output/snake.svg" alt="snake animation" />
