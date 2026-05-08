@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 <div align="left">
 
