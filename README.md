@@ -1,8 +1,10 @@
 <h1 align="left">Hey, I'm Harisdarmawan 👋</h1>
 
 <p align="left">
-🚀 I'm a Backend Developer who loves building scalable, efficient, and secure web applications using modern technologies like <b>React</b>, Node.js, and Laravel.<br>
-🐧 Comfortable working in Linux environments, and passionate about APIs, servers, and automation systems.
+🚀 I am Haris Darmawan, a student at Pamulang University with a strong interest in technology and software development.
+🐧 I enjoy learning new things in the tech world, especially in web development. Currently, I am focusing more on backend development using technologies such as Node.js and Laravel, along with working with APIs and databases.
+💻 I am also a member of the IT Cyber Community, which helps me grow through discussions, hands-on practice, and exploration of new technologies in IT, particularly web development and cybersecurity.
+⚙️ I am interested in how systems work behind the scenes, including servers, APIs, and automation. I continuously strive to improve my skills in building efficient and scalable applications.
 </p>
 
 ---
