@@ -2,25 +2,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<table>
-  <tr>
-    <td>👾 Name</td>
-    <td><b>Harisdarmawan</b></td>
-  </tr>
-  <tr>
-    <td>🎓 University</td>
-    <td><b>Pamulang University</b></td>
-  </tr>
-  <tr>
-    <td>💻 Major</td>
-    <td><b>Computer Science / Information Engineering</b></td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Tech Stack
 
 <div align="left">
